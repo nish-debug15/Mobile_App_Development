@@ -1,1 +1,1 @@
-This repository contains basic apps made with react native.
+This repository contains basic app code made with react native + JavaScript
