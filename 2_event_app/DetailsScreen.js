@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, Button, StyleSheet, Image } from 'react-native';
 
-export default function OrderDetailsScreen({ route, navigation }) {
+export default function DetailsScreen({ route, navigation }) {
 
   const { name, event } = route.params || {};
 

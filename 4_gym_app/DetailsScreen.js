@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, Button, StyleSheet, Image } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 
-export default function OrderDetailsScreen({ route, navigation }) {
+export default function DetailsScreen({ route, navigation }) {
 
   const { name, membership } = route.params || {};
 
